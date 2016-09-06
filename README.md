@@ -1,41 +1,37 @@
 
 ![Vialerta](http://vialerta.cc/img/vialerta_logo.svg ) 
+
 # Core
-O Core do sistema é que mantem o projeto do Vialerta funcionando, através de colaboração entre usuários e desenvolvedores
+Hey... this a heart of the Vialerta's System.
 
 ![GPL](https://img.shields.io/badge/license-GPLv3-lightgrey.svg?style=flat-square) ![PHP](https://img.shields.io/badge/language-PHP-green.svg?style=flat-square)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-blue.svg?style=flat-square)
 
 
-##Quem Somos?
-Vialerta é um sistema onde você pode postar os problemas da sua cidade, e divulga-los em uma forma rápida e prática em qualquer lugar. O sistema notificar os orgãos competentes, além de divulgar em várias redes sociais.
+##Who?
+This project is political and social, but does not belong to any party and does not follow a political ideology. It has no private bond or profit. It is based on and developed as free software under GPL version 3 licence
 
-Sua utilização é muito simples e pode ser via Smartphones, Tablets e PCs. Você pode alertar sobre sua rua que tem buracos, falta de lixeiras e de luz, problemas com sinalização ou qualquer outro problema que perceber em seu bairro ou em sua cidade.
+##How it Works
+Its use is very simple and can be via Smartphones, Tablets and PCs. You can warn your street that has holes, lack of rubbish cans and light, problems with signalling or any other issue that notice in your neighbourhood or in your city
 
-Este projeto é de cunho político e social, porém não pertence a qualquer partido e não segue uma ideologia política. Não tem vínculo privado ou fim lucrativo. É baseado e desenvolvido como Software Livre sob licença GPL Versão 3.
-
-Você pode contribuir no desenvolvimento da ferramenta e distribuí-la livremente.
-
-
-
-
-## Suporte dos Browsers
+## Browsers Support
 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/firefox/firefox_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/internet-explorer/internet-explorer_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/opera/opera_48x48.png)
 --- | --- | --- | --- | --- |
-Último ✔ | Último ✔ | 9+ ✔ | 7.1+ ✔ | Ultimo ✔|
+Last ✔ | Last ✔ | 9+ ✔ | 7.1+ ✔ | Last ✔|
 
 
 
-###Nosso Contato
-* [Homepage](http://vialerta.cc) - Conheça mais o Vialerta
-* [Facebook](https://facebook.com/vialerta) - Curta nossa Página
+###Talk to US
+* [Homepage](http://vialerta.cc) - Homepage
+* [Facebook](https://facebook.com/vialerta) - Facebook Page
 
-Junte-se a nós e ajude a desenvolver esta ferramenta para melhoria das cidades
+Make yourself heard
+and covers their rights city for a better.
 
 
 
-##Licensa
+##License
 
 ![GPL](http://www.gnu.org/graphics/gplv3-88x31.png) 
 
@@ -44,6 +40,6 @@ Junte-se a nós e ajude a desenvolver esta ferramenta para melhoria das cidades
 ![Usa CSS3](http://forthebadge.com/images/badges/uses-css.svg)
 
 
-Direitos Autorais - Equipe do Vialerta - 2012 - 2016
+By - Vialerta TEAM - 2012 - 2016
 
 
