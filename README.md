@@ -10,7 +10,9 @@ Hey... this a heart of the Vialerta's System.
 
 ##Who?
 Make yourself heard and covers their rights city for a better.
+
 Project whose goal is to develop a collaborative system to warn of the problems of their city with the assurance that responsible agencies are aware and take appropriate action.
+
 This project is political and social, but does not belong to any party and does not follow a political ideology. It has no private bond or profit. It is based on and developed as free software under GPL version 3 licence
 
 ##How it Works
