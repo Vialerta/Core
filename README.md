@@ -2,14 +2,14 @@
 ![Vialerta](http://vialerta.cc/img/vialerta_logo.svg )
 
 # Core
-Hey... this a heart of the Vialerta's System.
+Hey... this the heart of Vialerta's System.
 
 ![GPL](https://img.shields.io/badge/license-GPLv3-lightgrey.svg?style=flat-square) ![PHP](https://img.shields.io/badge/language-PHP-green.svg?style=flat-square)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-blue.svg?style=flat-square)
 
 
 ##Who?
-Make yourself heard and covers their rights city for a better.
+Make yourself heard and covers their rights for a better city.
 Project whose goal is to develop a collaborative system to warn of the problems of their city with the assurance that responsible agencies are aware and take appropriate action.
 This project is political and social, but does not belong to any party and does not follow a political ideology. It has no private bond or profit. It is based on and developed as free software under GPL version 3 licence
 
@@ -29,7 +29,7 @@ Last ✔ | Last ✔ | 9+ ✔ | 7.1+ ✔ | Last ✔|
 * [Facebook](https://facebook.com/vialerta) - Facebook Page
 
 Make yourself heard
-and covers their rights city for a better.
+and covers their rights for a better  city.
 
 
 
