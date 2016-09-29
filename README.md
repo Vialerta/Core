@@ -27,6 +27,7 @@ Last ✔ | Last ✔ | 9+ ✔ | 7.1+ ✔ | Last ✔|
 
 ###Talk to US
 * [Homepage](http://vialerta.cc) - Homepage
+* [Twitter](https://twitter.com/vialerta) - follow on Twitter
 * [Facebook](https://facebook.com/vialerta) - Facebook Page
 
 Make yourself heard
